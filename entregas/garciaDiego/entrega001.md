@@ -22,20 +22,9 @@
 # 5.Código DRY
 | Archivo      |    Linea     |    Recomendacion / Problema |
 |--------------|--------------|------------------|
-| [Caracol](https://github.com/Dievex/prg1-22-23/blob/main/retos/entregas/diegoGarc%C3%ADa/RetoDelCaracol.java#L19) | [Ver]() |Nombre genérico   |
+| [Caracol](https://github.com/Dievex/prg1-22-23/blob/main/retos/entregas/diegoGarc%C3%ADa/RetoDelCaracol.java#L19) | [Ver](https://github.com/Dievex/prg1-22-23/blob/12b174140902b6c7b4191cfaf25d55f88d9226ac/retos/entregas/diegoGarc%C3%ADa/RetoDelCaracol.java#L20) |Código repetitivo para calcular y redondear valores.|
 # 6.Falta de Modularidad y Cohesión
 | Archivo      |    Linea     |    Recomendacion / Problema |
 |--------------|--------------|------------------|
-| [Caracol](https://github.com/Dievex/prg1-22-23/blob/main/retos/entregas/diegoGarc%C3%ADa/RetoDelCaracol.java#L19) | [Ver]() |Nombre genérico   |
-# 7.Nombres de Variables Confuso
-| Archivo      |    Linea     |    Recomendacion / Problema |
-|--------------|--------------|------------------|
-| [Caracol](https://github.com/Dievex/prg1-22-23/blob/main/retos/entregas/diegoGarc%C3%ADa/RetoDelCaracol.java#L19) | [Ver]() |Nombre genérico   |
+| [Caracol](https://github.com/Dievex/prg1-22-23/blob/main/retos/entregas/diegoGarc%C3%ADa/RetoDelCaracol.java#L19) | [Ver](https://github.com/Dievex/prg1-22-23/blob/12b174140902b6c7b4191cfaf25d55f88d9226ac/retos/entregas/diegoGarc%C3%ADa/RetoDelCaracol.java#L2) | El codigo no esta dividido en metodos para simplificar si comprension y sencillez   |
 
-
-# 8. Falta de Comentarios Explicativos
-
-
-- Falta explicación de las reglas del juego y la lógica detrás del caracol.
-
-- No hay separación clara entre modelo, vista y controlador.
